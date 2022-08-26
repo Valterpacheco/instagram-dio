@@ -1,10 +1,11 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Desafio de projeto do boodcamp JavaScript Game Developer
+#    - Recriando a página inicial do Instagram
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Alterações realizadas: 
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- Adicionado favecon do instagran.
+- Apagados algumas declarações do CSS que não influenciaram na interface da página.
+- Alterada foto de perfil e nickname para as minhas.
+- Adicionado os endereços web dos links das divs app-download iguais aos do instagran.
 
 ## 🚀 Let's code! 🚀
